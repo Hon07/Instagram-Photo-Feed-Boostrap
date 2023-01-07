@@ -1,0 +1,9 @@
+.img-fluid {
+    display: block;
+    margin: auto;
+ }
+ .col-4 {
+    display: flex;
+    align-items: center;
+ }
+ 
